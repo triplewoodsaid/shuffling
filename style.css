@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+      background: rgb(227, 308, 308);
+  }
+  .imgs{
+    display:flex;
+    align-items:flex-start;
+    transition:  transform 0.5s;
+
+  }
+  .window{
+    overflow:hidden;
+    width:300px;
+    margin:0 auto;
+    position:relative;
+
+  
+  }
+  .red {
+    color:red;
+  }
+  .buttons{
+    position:absolute; 
+    text-align:center;
+    width:100%; 
+  }
+  .flow{
+
+  }
+  
